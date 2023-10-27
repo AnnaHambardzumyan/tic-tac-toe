@@ -16,7 +16,6 @@ void printBoard(){
     cout << "   |   |   " << endl;
     cout << ' ' << pos[7] << " | " << pos[8] << " | " << pos[9] << ' ' << endl;      
     cout << "   |   |   " << endl;
-
 }
 
 void makeMove(bool player){
